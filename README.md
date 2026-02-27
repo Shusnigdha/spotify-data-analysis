@@ -30,7 +30,45 @@
 > - **CSV Dataset** – Spotify streaming dataset (17K+ tracks)  
 >
 > ---
+>> ## 🗄 Data Analysis Approach
 >
+> ### 📊 Exploratory Data Analysis (EDA)
+>
+> - Calculated total tracks, artists, and albums  
+> - Analyzed album type distribution  
+> - Examined platform-based streaming contribution  
+> - Removed inconsistent duration values  
+>
+> ---
+>
+> ### 📈 Performance & Engagement Analysis
+>
+> - Identified Top 10 tracks by streams  
+> - Ranked Top 10 artists by total streams  
+> - Calculated average engagement per artist  
+> - Compared Licensed vs Unlicensed performance  
+> - Analyzed streaming contribution by platform  
+>
+> ---
+>
+> ### 🎶 Audio Feature Analysis
+>
+> - Computed average danceability, energy, valence, and acousticness  
+> - Identified most energetic tracks  
+> - Compared audio features across album types  
+> - Visualized feature relationships using scatter plots  
+>
+> ---
+>
+> ### 🚀 Advanced SQL Techniques Applied
+>
+> - Window Functions (Top 3 tracks per artist)  
+> - Common Table Expressions (CTEs)  
+> - Subqueries for platform comparison  
+> - Aggregations and ranking logic  
+>
+> ---
+> 
 > ## 📊 Dashboard Features
 >
 > ### 🔹 KPI Cards
@@ -69,3 +107,14 @@
 > - Audio feature patterns reveal clustering of high-energy and moderately danceable tracks.  
 >
 > ---
+> 
+> ## 🎯 Business Relevance
+>
+> This project demonstrates:
+>
+> - Strong SQL proficiency  
+> - Analytical thinking & structured data interpretation  
+> - KPI tracking and performance monitoring  
+> - Interactive dashboard development  
+> - Business-oriented storytelling through data
+>   ---
