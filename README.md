@@ -1,4 +1,4 @@
-> # 🎧 Spotify Streaming Data Analysis Dashboard
+> # 🎧 Spotify Streaming Data Analysis 
 >
 > ---
 >
